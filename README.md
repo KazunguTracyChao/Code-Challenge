@@ -1,3 +1,5 @@
+A Toy Problem Solutions
+
 Challenge 1: Student Grade Generator (Toy Problem)
 Write that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
 
